@@ -16,7 +16,7 @@ and LLMs into pipelines to build end-to-end NLP applications and solve your use 
 
 ## Installation
 
-The simplest way to get Haystack is via pip:
+The simplest way to install Haystack is via pip:
 
 ```sh
 pip install haystack-ai
