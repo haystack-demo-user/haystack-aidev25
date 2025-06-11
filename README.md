@@ -109,7 +109,7 @@ world know that you use Haystack!
 -   [Alcatel-Lucent](https://www.al-enterprise.com/)
 -   [Apple](https://www.apple.com/)
 -   [BetterUp](https://www.betterup.com/)
--   [Databricks](https://www.databricks.com/)
+-   [Databrickss](https://www.databricks.com/)
 -   [Deepset](https://deepset.ai/)
 -   [Etalab](https://www.deepset.ai/blog/improving-on-site-search-for-government-agencies-etalab)
 -   [Infineon](https://www.infineon.com/)
